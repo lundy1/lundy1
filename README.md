@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @lundy1
-- 🌱 I’m currently learning 
+# Leon S.
+@lundy1
+
+Aspiring IT professional with a passion for cybersecurity and problem-solving.
 
 
